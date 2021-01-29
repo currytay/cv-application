@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-Insert Link
+[Visit the site](https://currytay.github.io/cv-application/)
 
 **Note:** This website is best viewed on high res screens (1080p and up). Check the [improvements section](#improvements) for future updates.
 
